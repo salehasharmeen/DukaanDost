@@ -1,0 +1,1102 @@
+FAILED FILES REPORT
+================================================================================
+
+File      : WhatsApp Audio 2026-05-18 at 2.15.50 AM (4).ogg
+Issue     : amount
+Name      : باجی
+Amount    : 0.0
+Type      : debit
+Transcript: باجی کو دھنیاں پجاد دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.15.50 AM (6).ogg
+Issue     : amount
+Name      : استادھ
+Amount    : 0.0
+Type      : debit
+Transcript: استادھ کو میتھی ستڑھ دی دی تھی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.15.50 AM (7).ogg
+Issue     : amount
+Name      : اس
+Amount    : 0.0
+Type      : debit
+Transcript: اس کا تو پنسوڑ روپے آلیہ
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.15.50 AM.ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.18.37 AM (3).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی نے پیسے دے دیتے ہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.18.37 AM (4).ogg
+Issue     : amount
+Name      : باجی
+Amount    : 0.0
+Type      : debit
+Transcript: باجی نے کیچھ دے دی تھا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.18.37 AM (5).ogg
+Issue     : amount
+Name      : مستاد
+Amount    : 0.0
+Type      : debit
+Transcript: مستاد دا آج تھوڑا یا باقی رہے گیا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.18.37 AM (6).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی نے آج فیل ودار لکھوائے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.18.37 AM (7).ogg
+Issue     : amount
+Name      : بازی
+Amount    : 0.0
+Type      : debit
+Transcript: بازی نے پیسے کھاتے ویچھ لکھوا دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.18.37 AM (9).ogg
+Issue     : amount
+Name      : امیدو
+Amount    : 0.0
+Type      : debit
+Transcript: امیدو ہلے یاد پانسو روپی آ لینے ہوا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.18.37 AM.ogg
+Issue     : amount
+Name      : استادھ
+Amount    : 0.0
+Type      : debit
+Transcript: استادھ کو ہری مرچ سٹھاندی دیتی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.19.01 AM (1).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی نے کلو پیار دیتا جھو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.19.01 AM.ogg
+Issue     : amount
+Name      : استاد
+Amount    : 0.0
+Type      : debit
+Transcript: استاد نے فورا پیسے دے دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM (12).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: ڈاکٹر صاحب کو نمہ مال دیتا ہے  آج ہی سوے ریوں، منٹیوں لے کے آیا تھا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM (14).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی نے تے ٹوٹل پیسے سارے کلیر کرتے ہیں لیکن باجی دے کچھ پیسے رہن دے ہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM (15).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: ڈاکٹر صاحب نے تے اپنا کھاتا بند کر دیتا ہے لیکن علی دھالے بھی کھاتا رہندہ وہ
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM (16).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: امیدہ بھی رکارڈ کلیر ہو گیا ہے سارے پیسے دے دیتے ہیں  لیکن ڈاکٹر صاحب کا جدہ ہودا آرہا ہے وہ ہلے رہنتا ہوا تھوڑا جہاں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM (5).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی دا سب ادھارچے لکھ لو تے بازی دا بھی سارا ٹوٹل کھاتے ویچھ لکھ دوں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM (8).ogg
+Issue     : amount
+Name      : استاد
+Amount    : 0.0
+Type      : debit
+Transcript: استاد نے بھی کیش دے دیتا سی ٹوٹل پنسو تے  امی نے بھی کیش دے دیتا ہے ٹوٹل ٹائیسو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM (9).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.27.52 AM.ogg
+Issue     : name
+Name      : Unknown
+Amount    : 101100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے  ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (1).ogg
+Issue     : amount
+Name      : بادی
+Amount    : 0.0
+Type      : credit
+Transcript: بادی نے بھی آج سارا کئیز جمع کر دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (12).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی بھائی دے پانسو سٹھڑھ روپے باقینا ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (13).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی بھائی نے آج پیسے نہیں دیتے ہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (14).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی کا پرانا کھاتا چیک کرو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (16).ogg
+Issue     : amount
+Name      : جی
+Amount    : 0.0
+Type      : debit
+Transcript: باد جی نے بعد ویچھ دینے نے پیسے لے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (17).ogg
+Issue     : amount
+Name      : ڈوکٹر
+Amount    : 0.0
+Type      : debit
+Transcript: ڈوکٹر صاحب دے بھی جنہیں پیسے نہیں ہو بھی چیک کرو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (18).ogg
+Issue     : amount
+Name      : مینے
+Amount    : 0.0
+Type      : debit
+Transcript: مینے پیسے اگلیدہ فاتہ نینے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (19).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: ڈاکٹر صاحب نے مہین نے دے ڈاکٹر سے پیسے دے نینے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (2).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : credit
+Transcript: علی بھائی دے پیسے پھر جمع کرلو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (24).ogg
+Issue     : amount
+Name      : دینے
+Amount    : 0.0
+Type      : debit
+Transcript: اور دینے ویاجہ کیسے دے دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (25).ogg
+Issue     : amount
+Name      : ہاں
+Amount    : 0.0
+Type      : debit
+Transcript: ہاں اسٹاڑھنے ویڈی پیسے نگا دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (28).ogg
+Issue     : amount
+Name      : ڈی
+Amount    : 0.0
+Type      : debit
+Transcript: ڈی تو ہلے ٹوٹن امیونٹ لینیاں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (29).ogg
+Issue     : amount
+Name      : ڈھینے
+Amount    : 0.0
+Type      : debit
+Transcript: پیسے ڈھینے کیا ہے ڈھیٹوٹ انسور پیا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (3).ogg
+Issue     : amount
+Name      : امیدے
+Amount    : 0.0
+Type      : debit
+Transcript: امیدے بھی پیسے یاد جا گئے انہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (31).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی صاحب کا جفے ڈاد لکھ لو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (34).ogg
+Issue     : amount
+Name      : بازی
+Amount    : 0.0
+Type      : debit
+Transcript: بازی کا ٹوٹل ہے ساڑ  نا دے کھاتے دے ویچھ لکھ لو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (35).ogg
+Issue     : amount
+Name      : کرنے
+Amount    : 0.0
+Type      : credit
+Transcript: بازی دوالے پوڑے پیسے وصول کرنے کے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (36).ogg
+Issue     : amount
+Name      : اُس
+Amount    : 0.0
+Type      : debit
+Transcript: اُس طرح تو بھی لے پورے پہ سیلا نینے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (37).ogg
+Issue     : amount
+Name      : امیدہ
+Amount    : 0.0
+Type      : debit
+Transcript: امیدہ بھی کہ لے پیسے لینے میں کھاتے دی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (38).ogg
+Issue     : amount
+Name      : کاجی
+Amount    : 0.0
+Type      : debit
+Transcript: امینو آج سارا کاجی دا سمان دے ہی دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (39).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: ڈاکٹر صاحب نے آج فولڈ پیمن کروا دیتی ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (4).ogg
+Issue     : amount
+Name      : باجی
+Amount    : 0.0
+Type      : debit
+Transcript: باجی دے پیسے آگے ہیں تو باجی دا کھاتا کلیر کرو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (40).ogg
+Issue     : amount
+Name      : ستار
+Amount    : 0.0
+Type      : debit
+Transcript: ستار دنوں آج پورا فریش مل دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (41).ogg
+Issue     : amount
+Name      : امی
+Amount    : 0.0
+Type      : debit
+Transcript: امی نے بھی آج پورا کھاتا اپنا کلیر کراتی تا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (42).ogg
+Issue     : amount
+Name      : منڈی
+Amount    : 0.0
+Type      : debit
+Transcript: بادزی میں آج منڈی کا جرہنمہ سمان سی ہولے آگے دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (44).ogg
+Issue     : amount
+Name      : بازی
+Amount    : 0.0
+Type      : debit
+Transcript: بازی نے آج اپنا پورا کھاتا دے پورا سا اپریر کر دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (46).ogg
+Issue     : amount
+Name      : اللہ
+Amount    : 0.0
+Type      : debit
+Transcript: اللہ نے مجھے پوڑا ٹوٹل کھاتا گلیر کرا دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (47).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی کا ہاں دوسر روپے دا علو لکھ لو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (48).ogg
+Issue     : amount
+Name      : نئی
+Amount    : 0.0
+Type      : debit
+Transcript: نئی ٹومٹر لی  علو لکھو بازیرہ
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (5).ogg
+Issue     : amount
+Name      : امیدہ
+Amount    : 0.0
+Type      : debit
+Transcript: امیدہ بھی اجھے خاتہ موقع ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (50).ogg
+Issue     : amount
+Name      : آج
+Amount    : 0.0
+Type      : debit
+Transcript: آج فیر گلد مال دی دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (51).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : credit
+Transcript: علی نے اپنے پیسے واپس لے لینے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (52).ogg
+Issue     : amount
+Name      : باجی
+Amount    : 0.0
+Type      : credit
+Transcript: باجی نہیں بھی آج اپنے پوڑے پیسے واپس لا لینے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (53).ogg
+Issue     : amount
+Name      : زینہ
+Amount    : 0.0
+Type      : debit
+Transcript: تو زینہ کا غلط نام لکھا دیتا ہے کھاتے دے ویچھ
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (54).ogg
+Issue     : amount
+Name      : انھا
+Amount    : 0.0
+Type      : debit
+Transcript: انھا دا پرانا کھتا کلیگر کرو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (57).ogg
+Issue     : amount
+Name      : مستاد
+Amount    : 0.0
+Type      : debit
+Transcript: مستاد دی پیسے لے رہ گئی نہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (58).ogg
+Issue     : amount
+Name      : ناں
+Amount    : 0.0
+Type      : debit
+Transcript: ناں ڈیلی بھائی دوی کتالے کلو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (59).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (6).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 101100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے  پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (60).ogg
+Issue     : amount
+Name      : اس
+Amount    : 0.0
+Type      : debit
+Transcript: اس طاہدہ بھی یا لکھو درہ کھاتے دے اُٹھے سارا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (61).ogg
+Issue     : amount
+Name      : امیدی
+Amount    : 0.0
+Type      : debit
+Transcript: امیدی بھی ساری پیمینٹہ لکھو ذرا کھاتے دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (62).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: ڈاکٹر صاحب کو پنٹی دے دھو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (63).ogg
+Issue     : amount
+Name      : ڈاکٹر
+Amount    : 0.0
+Type      : debit
+Transcript: ڈاکٹر صاحب سے بھی پیمٹ آگئی ہے  کیا بھی کلیر کرو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (64).ogg
+Issue     : amount
+Name      : اُنہوں
+Amount    : 0.0
+Type      : debit
+Transcript: علیؑ بھائی دے خاتے دے اُتے دبارہ اُنہوں کا صحاب لکھو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (65).ogg
+Issue     : amount
+Name      : لکھنا
+Amount    : 0.0
+Type      : debit
+Transcript: پیسے لکھنا بھی کیش آگئی ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (67).ogg
+Issue     : amount
+Name      : ہم
+Amount    : 0.0
+Type      : debit
+Transcript: ہم ساہدے بھی سارے پیسے لکھو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM (68).ogg
+Issue     : amount
+Name      : کر
+Amount    : 0.0
+Type      : debit
+Transcript: کی کر دے پیو امینا بھی پیاس پڑھا ہوا تھے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.36.49 AM.ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: ڈوکٹر صاحب نے بھی آج مکمل پیمنٹ کروا دیتی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.57.39 AM (1).ogg
+Issue     : amount
+Name      : نہیں
+Amount    : 0.0
+Type      : debit
+Transcript: نہیں با جی تنیا تے ہج موکیا ہوا پچھوں بڑھا کٹا ہے سی جی شام ہوندے ہوندے موکیا ہوا تازہ نہیں ہنگا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.57.39 AM (4).ogg
+Issue     : amount
+Name      : پرانی
+Amount    : 0.0
+Type      : debit
+Transcript: پرانی انٹری ڈلیڈ کرتے ہو اور نئوی پاو  پسلہ کاتہ سارا کلیر کر دیتا ہے دوبارہ لکھو  تازہ طریق تو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 2.57.39 AM (5).ogg
+Issue     : amount
+Name      : تھوڑے
+Amount    : 0.0
+Type      : debit
+Transcript: بازی گوبی موسمی سبزی ہے اس لئے سستی ہے  پنڈی داتے موسم نہیں ہیگا لیکن منڈی چیسی مینگی ہے میں تھوڑے کی لے گیا ہاں ہے  باقی تُسی دیکھ لو تازہ سبزی ہے گوبی گوبی لے لو اتنا لالو لے لو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.25 AM (1).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.25 AM (13).ogg
+Issue     : amount
+Name      : اللی
+Amount    : 0.0
+Type      : debit
+Transcript: اللی جانو میتھے دیتی اسیاں دی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.25 AM (14).ogg
+Issue     : amount
+Name      : انہوں
+Amount    : 0.0
+Type      : debit
+Transcript: چاہتے ہیں انہوں نے ساں دیتا  اکس ہومی آدھا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.25 AM (3).ogg
+Issue     : amount
+Name      : و
+Amount    : 0.0
+Type      : debit
+Transcript: باجی نوٹ مٹر دیتا ڈیٹس و دا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.25 AM (7).ogg
+Issue     : amount
+Name      : میں
+Amount    : 0.0
+Type      : debit
+Transcript: میں نکریلہ دیتا ڈاکیلو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.25 AM (9).ogg
+Issue     : amount
+Name      : سب
+Amount    : 0.0
+Type      : debit
+Transcript: سب اترک دیتا پنیار پیدا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.25 AM.ogg
+Issue     : amount
+Name      : اس
+Amount    : 0.0
+Type      : debit
+Transcript: اسلام علیکم  تو ہم شروع کرتے ہیں  اس کے بعد والے میں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (1).ogg
+Issue     : amount
+Name      : امی
+Amount    : 0.0
+Type      : debit
+Transcript: امی نے پنیار پہ باپس دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (106).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (108).ogg
+Issue     : amount
+Name      : رضا
+Amount    : 0.0
+Type      : debit
+Transcript: رضا نے ستسوک دیتا ساپ ساف ہو گیا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (115).ogg
+Issue     : amount
+Name      : ڈالی
+Amount    : 0.0
+Type      : debit
+Transcript: ڈالی بھائی تپنسو لٹا کھاتا صاف
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (116).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (118).ogg
+Issue     : amount
+Name      : بلال
+Amount    : 0.0
+Type      : debit
+Transcript: بلال کو تنیاد دیتا موف سجن ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (12).ogg
+Issue     : amount
+Name      : دیرزو
+Amount    : 0.0
+Type      : debit
+Transcript: سیف نمک ریلا دیتا دیرزو دا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (120).ogg
+Issue     : amount
+Name      : پوٹماتر
+Amount    : 0.0
+Type      : debit
+Transcript: پوٹماتر نی آلو سی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (121).ogg
+Issue     : amount
+Name      : گلط
+Amount    : 0.0
+Type      : debit
+Transcript: گلط بندہ چوری صاحب بی اگی سی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (122).ogg
+Issue     : amount
+Name      : علیؑ
+Amount    : 0.0
+Type      : debit
+Transcript: علیؑ دینی علیؑ پائیدہ لکھو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (123).ogg
+Issue     : amount
+Name      : رکھو
+Amount    : 0.0
+Type      : debit
+Transcript: رکھو رکھو  سیاز نہیں گوپی ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (125).ogg
+Issue     : amount
+Name      : سمینہ
+Amount    : 0.0
+Type      : debit
+Transcript: بات جی نہیں سمینہ کا لکھ لو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (126).ogg
+Issue     : amount
+Name      : پانسونی
+Amount    : 0.0
+Type      : debit
+Transcript: پانسونی چیسو سی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (127).ogg
+Issue     : amount
+Name      : نئی
+Amount    : 0.0
+Type      : debit
+Transcript: نئی نئی  دار سی آر
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (128).ogg
+Issue     : amount
+Name      : ڈا
+Amount    : 0.0
+Type      : debit
+Transcript: ڈا دیو ڈالو نہیں ٹماٹر ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (129).ogg
+Issue     : amount
+Name      : گلل
+Amount    : 0.0
+Type      : debit
+Transcript: گلل لکھتا جی تاہی سونی تھاڑے تینسو ہے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (130).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی باہیدانی آمد باہیدان لیکھ لو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (134).ogg
+Issue     : amount
+Name      : کنسو
+Amount    : 0.0
+Type      : debit
+Transcript: آسے بھئی کنسو دا کرے لہ دار
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (137).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (140).ogg
+Issue     : amount
+Name      : گران
+Amount    : 0.0
+Type      : debit
+Transcript: گران بھائی سڑے چارسو لے انٹا ماترہاں دے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (146).ogg
+Issue     : amount
+Name      : رضا
+Amount    : 0.0
+Type      : debit
+Transcript: رضا  ہاں گوپی ڈائسو دی  کیش
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (147).ogg
+Issue     : amount
+Name      : آمد
+Amount    : 0.0
+Type      : debit
+Transcript: اور آمد بھئی چارسو انہاں ڈادارے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (148).ogg
+Issue     : amount
+Name      : آں
+Amount    : 0.0
+Type      : debit
+Transcript: آں جی پیسے دے گئے نیو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (149).ogg
+Issue     : amount
+Name      : بارجی
+Amount    : 0.0
+Type      : debit
+Transcript: بارجی دے لکھ لو تنسو دے ٹمٹر
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (151).ogg
+Issue     : amount
+Name      : خالد
+Amount    : 0.0
+Type      : debit
+Transcript: خالد بھائی تو چیسو لے  آلو تے ٹماٹر دے ساپ پورا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (167).ogg
+Issue     : amount
+Name      : چینے
+Amount    : 0.0
+Type      : debit
+Transcript: چینے ڈیٹسو ڈیٹے ادھرک دے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (17).ogg
+Issue     : amount
+Name      : دار
+Amount    : 0.0
+Type      : debit
+Transcript: دار کو ٹومٹے ڈیرسو روپے دارے دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (23).ogg
+Issue     : amount
+Name      : ساجد
+Amount    : 0.0
+Type      : credit
+Transcript: ساجد نے پنسل دار لیا ہے بچ دے گا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (25).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (36).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 101100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (37).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: علی بھائی نے پانچہ دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (38).ogg
+Issue     : amount
+Name      : باجی
+Amount    : 0.0
+Type      : debit
+Transcript: باجی نے تنسور پہ اطوات دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (39).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: چولی صاحب نے پیسے فورا دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (42).ogg
+Issue     : amount
+Name      : آمینے
+Amount    : 0.0
+Type      : debit
+Transcript: آمینے دیرسو دیتا سا پورا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (44).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: ڈاکھ صاحب نے ٹائیسو اتوات دیتے ہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (46).ogg
+Issue     : amount
+Name      : ہر
+Amount    : 0.0
+Type      : debit
+Transcript: ہر لینے سارے تنسو دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (51).ogg
+Issue     : amount
+Name      : کیل
+Amount    : 0.0
+Type      : debit
+Transcript: کیل ساونے نوز دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (54).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: گرمان صاحب نے سڑھے پنچوڑ دیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (60).ogg
+Issue     : amount
+Name      : ڈی
+Amount    : 0.0
+Type      : debit
+Transcript: ڈی بے ایٹو پنسول لیتا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (65).ogg
+Issue     : amount
+Name      : آمیت
+Amount    : 0.0
+Type      : debit
+Transcript: آمیت دیرزور پیلی تے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (68).ogg
+Issue     : amount
+Name      : سا
+Amount    : 0.0
+Type      : debit
+Transcript: سا جی تو اکسفلہ انہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (69).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1000.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (70).ogg
+Issue     : amount
+Name      : بھالید
+Amount    : 0.0
+Type      : credit
+Transcript: بھالید بھائی تو ساڑھے تنسو ملے ہیں
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (72).ogg
+Issue     : amount
+Name      : جان
+Amount    : 0.0
+Type      : debit
+Transcript: اللی جان تون سڑھے پنسو لینے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (73).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (76).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (77).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (8).ogg
+Issue     : amount
+Name      : سنا
+Amount    : 0.0
+Type      : debit
+Transcript: سنا نے ہری مرچ لئی پنجار پے دی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (85).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (86).ogg
+Issue     : amount
+Name      : باجینے
+Amount    : 0.0
+Type      : debit
+Transcript: باجینے تنسو دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (87).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (89).ogg
+Issue     : amount
+Name      : مسترینہ
+Amount    : 0.0
+Type      : debit
+Transcript: مسترینہ شارسو ڈی تی اچھے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (92).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (95).ogg
+Issue     : amount
+Name      : امران
+Amount    : 0.0
+Type      : debit
+Transcript: امران نے اکسپلیتر روپے دیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (98).ogg
+Issue     : amount
+Name      : بلال
+Amount    : 0.0
+Type      : debit
+Transcript: بلال نے تنسو بی دیتے نے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.34.26 AM (99).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: ریمان صاحب نے پنسو چالی باپس کیتے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.35.48 AM (12).ogg
+Issue     : name
+Name      : Unknown
+Amount    : 1100.0
+Type      : debit
+Transcript: پیسے دیے ملے روپے ہزار سو لیے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.35.48 AM (6).ogg
+Issue     : amount
+Name      : بھائی
+Amount    : 0.0
+Type      : debit
+Transcript: آمید بھائی نے  پدیدی تے ڈائی سورہ آیا گی نے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (10).ogg
+Issue     : amount
+Name      : ڈسو
+Amount    : 0.0
+Type      : debit
+Transcript: ڈسو دے ڈلو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (15).ogg
+Issue     : amount
+Name      : پنسو
+Amount    : 0.0
+Type      : debit
+Transcript: پنسو  کشلتہ
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (16).ogg
+Issue     : amount
+Name      : پانجسو
+Amount    : 0.0
+Type      : debit
+Transcript: پانجسو دہ سمہ اندیتہ
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (19).ogg
+Issue     : amount
+Name      : ڈائسو
+Amount    : 0.0
+Type      : debit
+Transcript: ڈائسو ڈیٹے
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (25).ogg
+Issue     : amount
+Name      : مستری
+Amount    : 0.0
+Type      : debit
+Transcript: مستری کا رکارڈ گلت ہے  یہ بھی ڈا دیو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (26).ogg
+Issue     : amount
+Name      : ستادلہ
+Amount    : 0.0
+Type      : debit
+Transcript: ستادلہ انٹری نہیں چاہیدی  تاہ دیو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (27).ogg
+Issue     : amount
+Name      : کینسل
+Amount    : 0.0
+Type      : debit
+Transcript: کینسل کرو بندہ نہیں آیا
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (28).ogg
+Issue     : amount
+Name      : اوہ
+Amount    : 0.0
+Type      : debit
+Transcript: اوہ اللولی انٹری تاہ دیو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (29).ogg
+Issue     : amount
+Name      : صاحب
+Amount    : 0.0
+Type      : debit
+Transcript: روڑی صاحب کا رکارڈ ڈلیڈ کر دیو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (3).ogg
+Issue     : amount
+Name      : ڈیزارڈ
+Amount    : 0.0
+Type      : debit
+Transcript: ڈیزارڈ کاش ڈیٹر
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (30).ogg
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : debit
+Transcript: بازی علی انٹریٹا ہو  غلط لکھتی سی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (31).ogg
+Issue     : amount
+Name      : نہیں
+Amount    : 0.0
+Type      : debit
+Transcript: نہیں نہیں اور ترانزیکشن نہیں ہوئی
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (33).ogg
+Issue     : amount
+Name      : اللہ
+Amount    : 0.0
+Type      : debit
+Transcript: اللہ پہ ہی اللہ انٹری  پٹا آدھو
+----------------------------------------
+File      : WhatsApp Audio 2026-05-18 at 3.42.47 AM (34).ogg
+Issue     : amount
+Name      : دیتے
+Amount    : 0.0
+Type      : debit
+Transcript: اور پیسے دیتے ہیں
+----------------------------------------
+File      : line_15.wav
+Issue     : amount
+Name      : یاسر
+Amount    : 0.0
+Type      : credit
+Transcript: یاسر نوں آلو تے گازر دے ڈو کلو بیچے تے نووی روپے ملے
+----------------------------------------
+File      : line_23.wav
+Issue     : amount
+Name      : کامران
+Amount    : 0.0
+Type      : credit
+Transcript: کامران نوں گازر دے ڈو کلو بیچے تے پچپن روپے ملے
+----------------------------------------
+File      : line_33.wav
+Issue     : amount
+Name      : ندھانو
+Amount    : 0.0
+Type      : credit
+Transcript: ندھانو تماطر دے بیک بیچے تے اکسو روپے ملے
+----------------------------------------
+File      : line_48.wav
+Issue     : amount
+Name      : نیدہ
+Amount    : 0.0
+Type      : debit
+Transcript: نیدہ نے گازر دے ڈو کلو خریدے تے پچپن روپے دے دے
+----------------------------------------
+File      : line_51.wav
+Issue     : amount
+Name      : علی
+Amount    : 0.0
+Type      : credit
+Transcript: علی مو پیاس دے چور کلو بیچے تے نووے روپے ملے
+----------------------------------------
+File      : line_7.wav
+Issue     : amount
+Name      : راشد
+Amount    : 0.0
+Type      : credit
+Transcript: راشد نوں بندی دے ڈو کلو بیچے تے پچپن روپے ملے
+----------------------------------------

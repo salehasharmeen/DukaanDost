@@ -1,0 +1,41 @@
+# ==========================
+# Python Backend
+# ==========================
+
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/.pytest_cache/
+backend/.mypy_cache/
+
+backend/.env
+.env
+
+backend/uploads/
+backend/trained_models/
+
+# Ignore the private dataset repository
+backend/data/
+
+# ==========================
+# Flutter Frontend
+# ==========================
+
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
+frontend/android/.gradle/
+
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
